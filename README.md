@@ -8,7 +8,7 @@ This project analyzes movie industry data using Microsoft Excel to identify top-
 
 ### 1. Top Grossing Movies Report
 
-Created a report to analyze movie performance based on revenue, budget, and profit. This report helps identify the highest-grossing and most profitable movies.
+Created a report to analyze movie performance based on revenue, budget, and profit. This report helps identify the highest-grossing and most profitable movies. https://github.com/Athira-VV/Excel-Movie-Analytics/blob/main/Top%20Gross%20Movies%20Report.pdf
 
 ### 2. Studio Profit & Loss Report
 
