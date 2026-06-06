@@ -12,7 +12,7 @@ Created a report to analyze movie performance based on revenue, budget, and prof
 
 ### 2. Studio Profit & Loss Report
 
-Developed a studio-level Profit & Loss report to compare revenue, budget, profit, profit percentage, and target achievement across movie studios.
+Developed a studio-level Profit & Loss report to compare revenue, budget, profit, profit percentage, and target achievement across movie studios. https://github.com/Athira-VV/Excel-Movie-Analytics/blob/main/Studios%20Profit%20%26%20Loss%20Report.pdf
 
 ## Purpose of the Analysis
 
